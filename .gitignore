@@ -35,3 +35,7 @@ crashlytics-build.properties
 fabric.properties
 
 .idea/*
+out/*
+将删除 .idea/
+将删除 META-INF/
+将删除 preload_resources/
